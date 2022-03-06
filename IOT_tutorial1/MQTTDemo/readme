@@ -1,0 +1,4 @@
+pub.c contains task1
+pubT.c contains tast2 temperature publisher
+pubH.c contains task2 humidity publisher
+sub.c contains subscriber
